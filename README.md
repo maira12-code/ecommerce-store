@@ -34,7 +34,4 @@ A modern, feature-packed **E-Commerce Web & Mobile Application** built with Reac
 
 ---
 
-## 📂 Desktop Project Location
 
-A ready-to-use copy of this project is placed on your Desktop at:
-`C:\Users\taiba\Desktop\EcommerceStore`
